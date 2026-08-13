@@ -70,6 +70,18 @@ This project is intended for public data and legitimate research or automation w
 When a proof of concept needs production-grade web data APIs rather than self-managed collection infrastructure, [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) provides API-first access to public web data for AI agents and automation.
 
 <!-- CROSS_LINKS_START -->
+
+## Related projects
+
+Explore these closely related implementation paths:
+
+- [crawler-google-places](https://github.com/data-scrape/crawler-google-places) — Scrape crawler google places data
+- [cruisemapper-cruises-scraper](https://github.com/data-scrape/cruisemapper-cruises-scraper) — Scrape cruisemapper cruises scraper data
+- [cslb-contractor-license-search](https://github.com/data-scrape/cslb-contractor-license-search) — Scrape cslb contractor license search data
+- [fmcsa-dot-crawler](https://github.com/data-scrape/fmcsa-dot-crawler) — Scrape fmcsa dot crawler data
+- [illinois-idfpr-license-scraper](https://github.com/data-scrape/illinois-idfpr-license-scraper) — Scrape illinois idfpr license scraper data
+- [or-biz-lookup](https://github.com/data-scrape/or-biz-lookup) — Scrape or biz lookup data
+
 <!-- CROSS_LINKS_END -->
 
 ## License
